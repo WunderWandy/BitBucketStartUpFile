@@ -4,3 +4,5 @@ https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-d
 If this doesn't work contact me
 
 The Licence was selected because you can pretty much find programming for calculator appplication all over the internet, there is nothing special here.
+
+The name of the project
